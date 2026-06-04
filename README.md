@@ -4,9 +4,11 @@
 
 ### Integrantes
 
-**Fernando**
-**Gabriel**
-**Guilherme**
+**Fernando - RM: 564820**
+
+**Gabriel - RM 563520**
+
+**Guilherme - RM 562494**
 
 ---
 
